@@ -1,0 +1,3 @@
+int test(){
+	printf("good");
+}
